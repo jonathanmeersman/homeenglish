@@ -5,8 +5,6 @@
 
 
 
-
-
 body,
 input,
 textarea,
@@ -417,84 +415,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#ext_menu-1 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#ext_menu-1 .navbar-caption {
-  color: #ffffff;
-  font-size: 10px;
-  font-family: 'Lato', sans-serif;
-}
-#ext_menu-1 .navbar-toggler {
-  color: #000000;
-}
-#ext_menu-1 .close-icon::before,
-#ext_menu-1 .close-icon::after {
-  background-color: #000000;
-}
-#ext_menu-1 .link,
-#ext_menu-1 .dropdown-item {
-  color: #000000;
-  font-family: 'Lato', sans-serif;
-}
-#ext_menu-1 .link {
-  font-size: 0.6rem;
-}
-#ext_menu-1 .dropdown-item,
-#ext_menu-1 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
-}
-#ext_menu-1 .link:hover,
-#ext_menu-1 .dropdown-item:hover,
-#ext_menu-1 .link:focus,
-#ext_menu-1 .dropdown-item:focus {
-  color: #000000;
-}
-#ext_menu-1 .link[aria-expanded="true"],
-#ext_menu-1 .dropdown-menu {
-  background: #e6e6e6;
-}
-#ext_menu-1 .nav-dropdown-sm .link:focus,
-#ext_menu-1 .nav-dropdown-sm .link:hover,
-#ext_menu-1 .nav-dropdown-sm .dropdown-item:focus,
-#ext_menu-1 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#ext_menu-1 .navbar,
-#ext_menu-1 .nav-dropdown-sm,
-#ext_menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
-#ext_menu-1 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#ext_menu-1 .bg-color.transparent .link {
-  color: #000000;
-  transition: none;
-}
-#ext_menu-1 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#ext_menu-1 .bg-color.transparent.opened .link:hover,
-#ext_menu-1 .bg-color.transparent.opened .link:focus {
-  color: #000000;
-}
-#ext_menu-1 .link[aria-expanded="true"],
-#ext_menu-1 .dropdown-item[aria-expanded="true"] {
-  color: #000000!important;
-}
-#header5-2 .mbr-section-title {
-  color: #000;
-  text-align: center;
-  font-family: 'Lato', sans-serif;
-  font-size: 32px;
-}
-#header5-2 .mbr-section-lead {
-  color: #9c9a9a;
-  text-align: center;
-  font-size: 14px;
-  font-family: 'Source Sans Pro', sans-serif;
-}
-
-
 #ext_menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -1306,4 +1226,84 @@ h6,
 }
 #header3-v SMALL {
   font-size: 11px;
+}
+
+
+
+
+#ext_menu-1 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-1 .navbar-caption {
+  color: #ffffff;
+  font-size: 10px;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-1 .navbar-toggler {
+  color: #000000;
+}
+#ext_menu-1 .close-icon::before,
+#ext_menu-1 .close-icon::after {
+  background-color: #000000;
+}
+#ext_menu-1 .link,
+#ext_menu-1 .dropdown-item {
+  color: #000000;
+  font-family: 'Lato', sans-serif;
+}
+#ext_menu-1 .link {
+  font-size: 0.6rem;
+}
+#ext_menu-1 .dropdown-item,
+#ext_menu-1 .nav-dropdown-sm .link {
+  font-size: 0.650rem;
+}
+#ext_menu-1 .link:hover,
+#ext_menu-1 .dropdown-item:hover,
+#ext_menu-1 .link:focus,
+#ext_menu-1 .dropdown-item:focus {
+  color: #000000;
+}
+#ext_menu-1 .link[aria-expanded="true"],
+#ext_menu-1 .dropdown-menu {
+  background: #e6e6e6;
+}
+#ext_menu-1 .nav-dropdown-sm .link:focus,
+#ext_menu-1 .nav-dropdown-sm .link:hover,
+#ext_menu-1 .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-1 .nav-dropdown-sm .dropdown-item:hover {
+  background: #f7f7f7!important;
+}
+#ext_menu-1 .navbar,
+#ext_menu-1 .nav-dropdown-sm,
+#ext_menu-1 .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-1 .nav-dropdown-sm .dropdown-menu {
+  background: #ffffff;
+}
+#ext_menu-1 .bg-color.transparent .link {
+  color: #000000;
+  transition: none;
+}
+#ext_menu-1 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-1 .bg-color.transparent.opened .link:hover,
+#ext_menu-1 .bg-color.transparent.opened .link:focus {
+  color: #000000;
+}
+#ext_menu-1 .link[aria-expanded="true"],
+#ext_menu-1 .dropdown-item[aria-expanded="true"] {
+  color: #000000!important;
+}
+#header5-2 .mbr-section-title {
+  color: #000;
+  text-align: center;
+  font-family: 'Lato', sans-serif;
+  font-size: 32px;
+}
+#header5-2 .mbr-section-lead {
+  color: #9c9a9a;
+  text-align: center;
+  font-size: 14px;
+  font-family: 'Source Sans Pro', sans-serif;
 }
