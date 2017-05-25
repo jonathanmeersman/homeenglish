@@ -502,6 +502,16 @@ h6,
 #msg-box5-22 P {
   font-size: 10px;
 }
+#header3-28 .mbr-section-title,
+#header3-28 .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-28 H3 {
+  font-size: 15px;
+}
+#content7-29 P {
+  font-size: 10px;
+}
 #header3-1w .mbr-section-title,
 #header3-1w .mbr-section-subtitle {
   text-align: center;
@@ -1040,6 +1050,9 @@ h6,
 }
 #content1-1u P {
   text-align: center;
+  font-size: 10px;
+}
+#msg-box4-27 P {
   font-size: 10px;
 }
 #header3-n .mbr-section-title,
